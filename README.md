@@ -40,5 +40,5 @@ Ready to test? It's as easy as:
 4.  **Run on Android**: `npx react-native run-android`
 
 ---
-
-*Made with ❤️ and a lot of caffeine for the React Native fundamentals assessment.* ☕✨
+*Done by: Lisa Hazel Dsouza*
+*Made with a lot of caffeine for the Seventeen Modulus React Native assessment.* ☕✨
