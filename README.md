@@ -1,6 +1,6 @@
-# ✅ DoneDone - The "Smart" Todo App
+# ✅ TikTakDone - The "Smart" Todo App
 
-Hello! Welcome to **DoneDone**, a productivity-first To-Do app designed to keep your life organized and your passwords secure—all while looking great in both light and dark modes. 🚀
+Hello! Welcome to **TikTakDone**, a productivity-first To-Do app designed to keep your life organized and your passwords secure—all while looking great in both light and dark modes. 🚀
 
 This app isn't just a list; it's a personal assistant that knows what's urgent and keeps your secrets safe. 
 
